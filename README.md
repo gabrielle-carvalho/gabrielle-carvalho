@@ -2,9 +2,9 @@
 
 
 - 🔭 Atualmente estou no primeiro ano da graduação de sistemas de informação e promovendo meu crescimento em paralelo.
-- 🌱 Estou estudando C++, fazendo um curso de nuvem AWS e UX design.
-- 💬 Pretendo aumentar as minhas habilidades entrando em uma linha de pesquisa na universidade.
-- ⚡ Estou disposta a colaborar com outas pessoas.
+- 🌱 Estou estudando C++, fazendo um curso de nuvem AWS pela escola da nuvem e UX design pelo google.
+- 💬 Pretendo aumentar as minhas habilidades na linha de pesquisa de robôs de serviços na minha universidade.
+- ⚡ Estou disposta a colaborar com outas pessoas com o objetivo de trocar conhecimento.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielle-carvalho&show_icons=true&theme=synthwave)
 
