@@ -1,12 +1,12 @@
-### Oii, eu sou Gabrielle e compartilho aqui o que estou aprendendo 👋
+### Oii, eu sou Gabrielle e compartilho meus projetos aqui. 👋
 <div> 
   <a href="https://instagram.com/gabiicarrvalho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriellesouzacarvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
 
 - 🔭 Atualmente estou no primeiro ano da graduação de sistemas de informação e promovendo meu crescimento em paralelo.
-- 🌱 Estou estudando C++ e fazendo um curso de nuvem AWS pela escola da nuvem.
-- 💬 Pretendo aumentar as minhas habilidades na linha de pesquisa de robôs de serviços na minha universidade, atuando na área de reconhecimento de pessoas.
+- 🌱 Estou estudando C e Python.
+- 💬 Pretendo aumentar as minhas habilidades na linha de pesquisa de robôs de serviços na minha universidade, atuando na área de reconhecimento de pessoas e de objetos.
 - ⚡ Estou disposta a colaborar com outas pessoas com o objetivo de trocar conhecimento.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielle-carvalho&show_icons=true&theme=synthwave)
