@@ -1,34 +1,57 @@
-### Oi, eu sou Gabrielle e compartilho meus projetos aqui! 👋
-<div> 
-  <a href="https://instagram.com/gabiicarrvalho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriellesouzacarvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a align="left"><img src="https://komarev.com/ghpvc/?username=gabrielle-carvalho" alt="gabrielle-carvalho" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://komarev.com/ghpvc/?username=gabrielle-carvalho" alt="Visualizações no GitHub" />
+</p>
 
-</div> 
+# Oi, eu sou Gabrielle! 👋
+
+Compartilho meus projetos e aprendizado aqui no GitHub. Fique à vontade para explorar! 🚀
+
+## Sobre Mim
+
+<p align="center">
+  - 🎓 <strong>Estudante de Sistemas de Informação</strong> no 2º ano, com foco no desenvolvimento de soluções inovadoras.  
+</p>
+<p align="center">
+  - 🌱 <strong>Aprendendo constantemente</strong> linguagens como <strong>C</strong>, <strong>C++</strong>, <strong>Java</strong> e <strong>Python</strong>.  
+</p>
+<p align="center">
+  - 🤖 <strong>Pesquisando robôs de serviços</strong>, com interesse especial em <strong>reconhecimento de pessoas</strong>, <strong>detecção de objetos</strong> e <strong>análise de poses</strong>.  
+</p>
+<p align="center">
+  - 🤝 <strong>Aberta a colaborações</strong>, sempre disposta a trocar conhecimentos e aprender com outros profissionais!
+</p>
 
 
-- 🔭 Estou no segundp ano da graduação de sistemas de informação e promovendo meu crescimento em paralelo.
-- 🌱 Estou estudando C, C++, Java e Python.
-- 💬 Pretendo aumentar as minhas habilidades na linha de pesquisa de robôs de serviços na minha universidade, atuando na área de reconhecimento de pessoas, de objetos e na detecção de poses.
-- ⚡ Estou disposta a colaborar com outas pessoas com o objetivo de trocar conhecimento.
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielle-carvalho&show_icons=true&theme=synthwave)
+## 💻 Tecnologias e Ferramentas que Eu Uso
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<p align="center">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-  <img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
- <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  </a>
+  <a href="https://github.com/gabrielle-carvalho/c-projects">
+    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+  </a>
+</p>
 
-##
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielle-carvalho&layout=donut)
-##
-  
+---
+
+## 📊 Minhas Estatísticas e Principais Linguagens que Eu Uso
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielle-carvalho&show_icons=true&theme=synthwave" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielle-carvalho&layout=donut" alt="Top Languages">
+</p>
