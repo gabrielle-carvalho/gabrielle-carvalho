@@ -54,4 +54,6 @@ Compartilho meus projetos e aprendizado aqui no GitHub. Fique à vontade para ex
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielle-carvalho&show_icons=true&theme=synthwave" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielle-carvalho&layout=donut" alt="Top Languages">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielle-carvalho&" alt="gabrielle-carvalho" />
 </p>
+
