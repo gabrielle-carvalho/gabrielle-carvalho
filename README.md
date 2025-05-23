@@ -11,7 +11,7 @@ Compartilho meus projetos e aprendizado aqui no GitHub. Fique à vontade para ex
 ## Sobre Mim
 
 <p align="center">
-  - 🎓 <strong>Estudante de Sistemas de Informação</strong> no 2º ano, com foco no desenvolvimento de soluções inovadoras.  
+  - 🎓 <strong>Estudante de Sistemas de Informação</strong> no 3º semestre, com foco no desenvolvimento de soluções inovadoras.  
 </p>
 <p align="center">
   - 🌱 <strong>Aprendendo constantemente</strong> linguagens como <strong>C</strong>, <strong>C++</strong>, <strong>Java</strong> e <strong>Python</strong>.  
@@ -52,8 +52,7 @@ Compartilho meus projetos e aprendizado aqui no GitHub. Fique à vontade para ex
 ## 📊 Minhas Estatísticas e Principais Linguagens que Eu Uso
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielle-carvalho&show_icons=true&theme=synthwave" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielle-carvalho&layout=donut" alt="Top Languages">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielle-carvalho&" alt="gabrielle-carvalho" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielle-carvalho&" alt="gabrielle-carvalho" />
 </p>
 
