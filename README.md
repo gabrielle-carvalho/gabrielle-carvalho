@@ -5,7 +5,7 @@ Compartilho meus projetos e aprendizado aqui no GitHub.
 ## Sobre Mim
 
 <p align="center">
-  - 🎓 <strong>Estudante de Sistemas de Informação</strong> no 3º semestre, com foco no desenvolvimento de soluções inovadoras.  
+  - 🎓 <strong>Estudante de Sistemas de Informação</strong> no 4º semestre, com foco no desenvolvimento de soluções inovadoras.  
 </p>
 <p align="center">
   - 🌱 <strong>Aprendendo constantemente</strong> linguagens como <strong>C</strong>, <strong>C++</strong>, <strong>Java</strong> e <strong>Python</strong>.  
