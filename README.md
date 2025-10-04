@@ -46,6 +46,6 @@ Compartilho meus projetos e aprendizado aqui no GitHub.
 ## 📊 Minhas Estatísticas e Principais Linguagens que Eu Uso
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielle-carvalho&layout=donut" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielle-carvalho&layout=donut" alt="My Top Languages">
 </p>
 
