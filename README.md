@@ -1,9 +1,5 @@
 # Olá, eu sou Gabrielle! 👋
 
-<p align="center">
-Compartilho meus projetos e aprendizado aqui no GitHub.
-</p>
-
 ## 🚀 Sobre Mim
 
 * 🎓 **Estudante de Sistemas de Informação na UNEB** (5º semestre), focada em desenvolvimento full-stack e robótica.
