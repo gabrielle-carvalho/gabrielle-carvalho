@@ -1,42 +1,32 @@
-# Olá, eu sou Gabrielle!
+# Olá, eu sou Gabrielle! 👋
 
+<p align="center">
 Compartilho meus projetos e aprendizado aqui no GitHub.
-
-## Sobre Mim
-
-<p align="center">
-  - 🎓 <strong>Estudante de Sistemas de Informação</strong> no 4º semestre, com foco no desenvolvimento de soluções inovadoras.  
-</p>
-<p align="center">
-  - 🌱 <strong>Aprendendo constantemente</strong> linguagens como <strong>C</strong>, <strong>C++</strong>, <strong>Java</strong> e <strong>Python</strong>.  
-</p>
-<p align="center">
-  - 🤖 <strong>Pesquisando robôs de serviços</strong>, com interesse especial em <strong>reconhecimento de pessoas</strong>, <strong>detecção de objetos</strong> e <strong>análise de poses</strong>.  
-</p>
-<p align="center">
-  - 🤝 <strong>Aberta a colaborações</strong>, sempre disposta a trocar conhecimentos e aprender com outros profissionais!
 </p>
 
+## 🚀 Sobre Mim
+
+* 🎓 **Estudante de Sistemas de Informação na UNEB** (5º semestre), focada em desenvolvimento full-stack e robótica.
+* 🤖 **Pesquisadora em Robótica de Serviços**: Trabalho com **ROS2** e **Docker**, focando em reconhecimento de pessoas, detecção de objetos e análise de poses, além disso também trabalho com Processaento de linguagem natural.
+* 💻 **Desenvolvedora Full-Stack**: Experiência prática construindo aplicações com **Spring Boot (Java)** e **Angular**.
+* 🌐 **Entusiasta de Redes e Algoritmos**: Conhecimento em infraestrutura de redes, diagramação e aplicação de estruturas de dados (como Árvores B e Dijkstra).
+* 🤝 **Colaboração**: Sempre aberta a trocar conhecimentos e participar de projetos inovadores!
 
 ---
 
-## 💻 Tecnologias e Ferramentas que Eu Uso
+🛠️ Tecnologias e Ferramentas
 
-<p align="center">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  
-  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  
-  <img align="center" alt="DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+Linguagens e Frameworks
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=c,cpp,python,java,spring,angular,flask,typescript,js,html,css" </a> </p>
 
-</p>
+Infraestrutura, DevOps e Robótica
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=docker,ros,mysql,aws,git" /> </a> </p>
+
+Design e Ferramentas
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=figma,vscode,notion,trello"/> </p>
+
+---
+
+📫 Como me encontrar
+
+<p align="left"> <a href="https://www.linkedin.com/in/gabriellesouzacarvalho" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:gabiecarvalho15@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
