@@ -1,28 +1,50 @@
-# Olá, eu sou Gabrielle! 👋
+# Hello, I'm Gabrielle! 👋
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-* 🎓 **Estudante de Sistemas de Informação na UNEB** (5º semestre), focada em desenvolvimento full-stack e robótica.
-* 🤖 **Pesquisadora em Robótica de Serviços**: Trabalho com **ROS2** e **Docker**, focando em reconhecimento de pessoas, detecção de objetos e análise de poses, além disso também trabalho com Processaento de linguagem natural.
-* 💻 **Desenvolvedora Full-Stack**: Experiência prática construindo aplicações com **Spring Boot (Java)** e **Angular**.
-* 🌐 **Entusiasta de Redes e Algoritmos**: Conhecimento em infraestrutura de redes, diagramação e aplicação de estruturas de dados (como Árvores B e Dijkstra).
-* 🤝 **Colaboração**: Sempre aberta a trocar conhecimentos e participar de projetos inovadores!
-
----
-
-🛠️ Tecnologias e Ferramentas
-
-Linguagens e Frameworks
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=c,cpp,python,java,spring,angular,flask,typescript,js,html,css" </a> </p>
-
-Infraestrutura, DevOps e Robótica
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=docker,ros,mysql,aws,git" /> </a> </p>
-
-Design e Ferramentas
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=figma,vscode,notion,trello"/> </p>
+* 🎓 **Information Systems student at UNEB** (6th semester), focused on full-stack development and robotics.
+* 🤖 **Service Robotics Researcher**: Working with **ROS 2** and **Docker**, focusing on people recognition, object detection, and pose analysis, as well as **Natural Language Processing (NLP)**.
+* 💻 **Full-Stack Developer**: Hands-on experience building applications with **Spring Boot (Java)** and **Angular**.
+* 🌐 **Networks & Algorithms Enthusiast**: Knowledge of network infrastructure, system diagramming, and data structures and algorithms, including **B-Trees** and **Dijkstra's algorithm**.
+* 🤝 **Collaboration**: Always open to sharing knowledge and contributing to innovative projects!
 
 ---
 
-📫 Como me encontrar
+## 🛠️ Technologies & Tools
 
-<p align="left"> <a href="https://www.linkedin.com/in/gabriellesouzacarvalho" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:gabiecarvalho15@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
+### Languages & Frameworks
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,spring,angular,flask,typescript,js,html,css" />
+  </a>
+</p>
+
+### Infrastructure, DevOps & Robotics
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,ros,mysql,aws,git" />
+  </a>
+</p>
+
+### Design & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,vscode,notion,trello" />
+  </a>
+</p>
+
+---
+
+## 📫 Get in Touch
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabriellesouzacarvalho" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gabiecarvalho15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
